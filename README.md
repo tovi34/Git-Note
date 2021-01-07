@@ -85,9 +85,3 @@
 
 - `git config --global user.signingkey XXXXXXXXXXX`
 - `gpg --armor --export xxxxxxxxxxxxx`
-
-# example output &  copy all output
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
------END PGP PUBLIC KEY BLOCK-----
